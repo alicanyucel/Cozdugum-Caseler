@@ -67,11 +67,12 @@ https://github.com/alicanyucel/OctaPullAngularCase
 https://github.com/alicanyucel/SeniorProje
 
 16)Aly Food
-
+https://github.com/alicanyucel/AlyFoodAngular
 https://github.com/alicanyucel/AlyFoodSeniorFullStackCaseErp
 
 17)Kayra Export
-
+https://github.com/alicanyucel/KayraExportAsama1
+https://github.com/alicanyucel/KayraExportAsama2
 https://github.com/alicanyucel/KayraExportCaseAsamaUc
 
 18)Losev
@@ -94,3 +95,26 @@ https://github.com/alicanyucel/Timecom_ProjeTask_AliCanYucel
 
 https://github.com/alicanyucel/VeriketApplicationTest
 
+23)Mudbey Yazılım
+https://github.com/alicanyucel/VuexyTeknikService
+https://github.com/alicanyucel/TeknikServis
+https://github.com/alicanyucel/MasrafProject
+
+24)Adin PLastik Ambalaj
+https://github.com/alicanyucel/TruckPortFreeLancerProject
+
+25)Sisoft 
+https://github.com/alicanyucel/JavaSozluk
+
+26)Ra Yazılım
+https://github.com/alicanyucel/yuzukapp
+
+27)Vedubox
+https://github.com/alicanyucel/VeduboxAngularCase
+https://github.com/alicanyucel/VeduboxBackend
+
+28)Arge Bilişim
+https://github.com/alicanyucel/FormGeneratorAngular
+
+29)Gilzi Firma
+https://github.com/alicanyucel/SinavSistemi.Net7.0.Mvc
