@@ -136,3 +136,10 @@ https://github.com/alicanyucel/DiziIcerisindeEksikSayiyiBulma
 
 35)Mühendislik öğrencileriine verdiğim eğitimler
 https://github.com/alicanyucel/AliCanHocaFullStackBootCamp
+
+36)Çamlıca Yazılım
+https://github.com/alicanyucel/FacebookGrapQLApi
+https://github.com/alicanyucel/FacebookGrapQlAngular
+
+37)Gizli Firma
+https://github.com/alicanyucel/AngularDragDrogAp
