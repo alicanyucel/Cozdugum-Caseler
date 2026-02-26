@@ -133,3 +133,6 @@ https://github.com/alicanyucel/OrpakTask
 
 34)Belsoft
 https://github.com/alicanyucel/DiziIcerisindeEksikSayiyiBulma
+
+35)Mühendislik öğrencileriine verdiğim eğitimler
+https://github.com/alicanyucel/AliCanHocaFullStackBootCamp
