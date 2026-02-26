@@ -118,3 +118,6 @@ https://github.com/alicanyucel/FormGeneratorAngular
 
 29)Gilzi Firma
 https://github.com/alicanyucel/SinavSistemi.Net7.0.Mvc
+
+30)Gilzi Firma
+https://github.com/alicanyucel/YazilimEgitmeniIseGirisProjem
