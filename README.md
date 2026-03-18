@@ -157,4 +157,8 @@ https://github.com/alicanyucel/adresdefterilarinsoft
 https://github.com/alicanyucel/Angular_AdresDefteri
 https://github.com/alicanyucel/net-core-mvc-adres-defteri
 
+41)Enocta 
+https://github.com/alicanyucel/EnoctaCaseAngular21
 
+42)Simsoft
+https://github.com/alicanyucel/SimsoftIseGirisProjesi
