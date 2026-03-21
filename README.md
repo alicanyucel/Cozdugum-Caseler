@@ -165,3 +165,7 @@ https://github.com/alicanyucel/SimsoftIseGirisProjesi
 
 43)Kmk
 https://github.com/alicanyucel/Angular21KmkCase
+
+44)Hyper Company Take Home Case
+
+https://github.com/alicanyucel/TakeHomeAngular21
