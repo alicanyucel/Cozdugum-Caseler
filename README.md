@@ -169,3 +169,7 @@ https://github.com/alicanyucel/Angular21KmkCase
 44)Hyper Company Take Home Case
 
 https://github.com/alicanyucel/TakeHomeAngular21
+
+45)Gizli Firma
+https://github.com/alicanyucel/GizliFirmaCaseBackend
+https://github.com/alicanyucel/GizliCaseAngular
