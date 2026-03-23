@@ -173,3 +173,6 @@ https://github.com/alicanyucel/TakeHomeAngular21
 45)Gizli Firma
 https://github.com/alicanyucel/GizliFirmaCaseBackend
 https://github.com/alicanyucel/GizliCaseAngular
+
+46)Pazaryeri Conventer
+https://github.com/alicanyucel/AlicanTaskPazaryeri
