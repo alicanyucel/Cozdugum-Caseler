@@ -176,3 +176,7 @@ https://github.com/alicanyucel/GizliCaseAngular
 
 46)Pazaryeri Conventer
 https://github.com/alicanyucel/AlicanTaskPazaryeri
+
+47)Gizli Firma
+https://github.com/alicanyucel/NewsletterWebApi
+https://github.com/alicanyucel/NewsletterAngularOnYuzAliCanYucel
