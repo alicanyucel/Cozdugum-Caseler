@@ -180,3 +180,12 @@ https://github.com/alicanyucel/AlicanTaskPazaryeri
 47)Gizli Firma
 https://github.com/alicanyucel/NewsletterWebApi
 https://github.com/alicanyucel/NewsletterAngularOnYuzAliCanYucel
+
+48)Metosis
+https://github.com/alicanyucel/MeteosisCase
+
+49)Gizli Firma
+https://github.com/alicanyucel/MediorProject
+
+50)Gizli Firma
+https://github.com/alicanyucel/LeadProject
